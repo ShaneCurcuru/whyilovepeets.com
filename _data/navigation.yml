@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+  - title: "Colophon"
+    url: /colophon
+  - title: "Peet's Coffee &amp; Tea"
+    url: https://peets.com/

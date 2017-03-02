@@ -1,0 +1,14 @@
+---
+layout: archive
+---
+
+<h3 class="archive__subtitle">{{ site.title }}</h3>
+
+{% include base_path %}
+
+<p>Sugar cappuccino dark plunger pot java.</p>
+<div class="grid__wrapper">
+  {% for post in site.posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
