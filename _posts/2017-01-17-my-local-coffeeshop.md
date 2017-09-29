@@ -1,22 +1,32 @@
 ---
 layout: single
-title: "My local coffeeshop"
-date: 2017-02-17 14:00:00 -0500
+title: "Major Dickason's Blend®"
+date: 2017-09-29 11:00:00 -0500
 header:
-  teaser: /assets/images/nolan-issac-38299-300.jpg
-  overlay_image: /assets/images/nolan-issac-38299-168317.jpg
+  teaser: /assets/images/nick-karvounis-156086-300.jpg
+  overlay_image: /assets/images/nick-karvounis-156086.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-Another reason I like Peet's is that it's one of the few places where I'm a regular.  The shop in downtown Lexington is my working home away from home some days.  Even though it's a little bit of a drive, that's where I buy my beans.
+My default coffee? Major Dickason's Blend® coffee from Peet's. Just the right dark roast with complexity to enjoy but without too much of anything, so it's suitable for an everyday cuppa. I probably get this roast about a third of the time I buy coffee beans, or anytime I need beans but just can't decide on what I want.
+
+Order some [Major Dickason from Peet's directly](https://www.peets.com/major-dickason-s-blend.html).
+
+The story of the "retired army officer Key Dickason" bringing in the blend to Peet's is a nice one, although quick research doesn't show much factual data behind it.  It would be nice if Peet's corporate marketing turned it into a real story (with some data to support it).
+
+In other news, MAJOR DICAKSON'S BLEND® is a [registered trademark in the US](https://tsdr.uspto.gov/#caseNumber=72397592&caseType=SERIAL_NO&searchType=statusSearch), showing how important the brand is to Peet's marketing.  The registration waives "BLEND", obviously, but also interestingly states:
+
+> "MAJOR DICKASON" IS NOT THE NAME OF ANY LIVING INDIVIDUAL KNOWN TO APPLICANT, BUT IS FANCIFUL.
 
 ## Coffee Ipsum Lorem Morem Toum Laterum
 
-Strong dripper id black siphon instant mug galão sit kopi-luwak barista turkish. Chicory turkish a macchiato french press steamed mazagran. Kopi-luwak at est doppio instant arabica aftertaste. Galão iced, so mazagran extra, steamed qui lungo ristretto cinnamon trifecta. Coffee, roast galão kopi-luwak white beans foam aftertaste.
+Steamed cinnamon bar carajillo espresso roast cinnamon. Skinny aged in, eu iced french press white dripper organic. Organic qui aftertaste, body macchiato breve barista beans rich. Robusta, cup mazagran, sweet café au lait qui at aromatic robusta.
 
-Carajillo iced, single shot kopi-luwak affogato robusta dark. Java redeye frappuccino saucer macchiato barista caramelization black. Robust, ristretto aged coffee froth espresso shop milk half and half breve. To go cultivar skinny blue mountain shop sugar cappuccino dark shop to go plunger pot java. Caramelization extra cappuccino ristretto acerbic con panna to go.
+> At café au lait mazagran steamed mocha grinder carajillo organic. Eu fair trade, organic robusta robust lungo medium. Extraction, froth blue mountain black, id aged organic, instant at wings sweet caffeine. Crema breve, coffee, con panna et acerbic flavour medium robust redeye beans.
+> [Coffee Ipsum](http://coffeeipsum.com/)
 
-To go frappuccino, white rich, mocha seasonal redeye pumpkin spice affogato. White java, variety java, percolator sugar medium beans single origin steamed saucer cream. Steamed, trifecta kopi-luwak, dark siphon, froth roast seasonal percolator aged irish. Kopi-luwak acerbic affogato flavour skinny, ut, viennese medium brewed dark plunger pot. Trifecta seasonal coffee brewed dripper dark siphon cappuccino flavour carajillo seasonal froth.
+Qui dripper spoon whipped, mug galão caffeine irish robusta. Extra, half and half milk roast redeye, half and half, espresso arabica aftertaste body sit viennese. Brewed filter doppio, that body, barista siphon spoon blue mountain black. At arabica mug to go ristretto, sweet froth single shot mazagran doppio.
 
-Irish beans galão strong, half and half instant white medium barista single origin irish roast. Sit milk, crema qui aromatic ristretto galão. Espresso, sit trifecta milk, rich espresso chicory lungo ristretto. That rich aroma mazagran dripper decaffeinated siphon, extraction beans est aftertaste caffeine. Irish redeye, milk java affogato rich kopi-luwak java.
+Caffeine steamed froth, robusta espresso variety percolator pumpkin spice aged caramelization. Fair trade, latte, fair trade, seasonal sugar cream eu whipped extra. Grounds robust mocha con panna lungo, crema sit cortado caramelization viennese. Aged, organic espresso rich breve sugar french press extraction seasonal cortado siphon medium.
+
