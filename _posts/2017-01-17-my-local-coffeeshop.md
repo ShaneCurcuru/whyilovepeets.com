@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/nick-karvounis-156086-300.jpg
   overlay_image: /assets/images/nick-karvounis-156086.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Nick Karvounis / Unsplash**](https://unsplash.com)"
 ---
 
 My default coffee? Major Dickason's Blend® coffee from Peet's. Just the right dark roast with complexity to enjoy but without too much of anything, so it's suitable for an everyday cuppa. I probably get this roast about a third of the time I buy coffee beans, or anytime I need beans but just can't decide on what I want.

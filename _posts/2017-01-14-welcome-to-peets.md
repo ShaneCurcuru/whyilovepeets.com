@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/brigitte-tohm-143446-300.jpg
   overlay_image: /assets/images/brigitte-tohm-143446.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Brigitte Tohm / Unsplash**](https://unsplash.com)"
 ---
 
 Welcome to Why I Love Peet's, Shane's blog about all things coffee and his favorite coffee shop.

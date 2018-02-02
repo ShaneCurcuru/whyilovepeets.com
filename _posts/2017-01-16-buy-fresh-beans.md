@@ -6,10 +6,14 @@ header:
   teaser:  /assets/images/drew-coffman-110617-300.jpg
   overlay_image: /assets/images/drew-coffman-110617.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Drew Coffman / Unsplash**](https://unsplash.com)"
 ---
 
 Always buy fresh beans and grind just before brewing for best results!
+
+Using a blade grinder works fine, but you do need to be careful to not let the beans overheat.  It's a trick to get the beans evenly ground, without heating them up so much they start to burn.
+
+A burr grinder is better, but most are much more expensive.  Along with doing a much more even grind without worrying about burning the beans, they're easier to use too: just push the button for as long as you want it to grind.  This year I finally got the present I wanted: the [Baratza Virtuoso burr grinder](https://www.baratza.com/grinder/virtuoso/), and it's both beautiful and magical.
 
 ## Coffee Ipsum - more to come
 
