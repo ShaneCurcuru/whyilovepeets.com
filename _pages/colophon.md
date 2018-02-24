@@ -7,7 +7,7 @@ author_profile: true
 
 ## Credits
 
-Original content &copy; 2017 Shane Curcuru under the Apache License 2.0.
+Original content &copy; 2017-2018 Shane Curcuru, licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 Website structure ([fork the code](https://github.com/{{ site.repository }})), layout, graphics:
 
