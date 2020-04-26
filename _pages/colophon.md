@@ -22,7 +22,7 @@ Hosted by the convenient [GitHub Pages](https://pages.github.com/).
 
 Written with the [Atom.io](https://atom.io/) editor on a Mac.
 
-Powered by caffeine from [Peet's Coffee and Tea](http://www.peets.com/).
+Powered by caffeine from [Peet's Coffee and Tea](https://share.peets.com/x/nhw6Pg).
 
 Coffee Ipsum and All About Coffee Markov from a variety of coffee-related books.
 

@@ -11,7 +11,7 @@ header:
 
 Peet's is not unique among retailers making changes during the lockdowns or business restrictions that many areas are now starting during the COVID-19 pandemic.  Sadly, my local Peet's has closed for the time being - and I didn't get a chance to say goodbye (or give an extra tip!) to their great staff.  Here's hoping they'll all be back when the local restrictions are over!
 
-I keep drinking Peet's coffee so I can [help neighbors impacted by COVID-19 with Mutual Aid Arlington](https://mutualaidarlington.org/?peets).  Luckily, Peet's now delivers for free!
+We're now [ordering Peet's coffee online for delivery](https://share.peets.com/x/nhw6Pg), because they coordinate roast dates with shipping so it's fresh.  And I'm drinking Peet's coffee so I can [help neighbors impacted by COVID-19 with Mutual Aid Arlington](https://mutualaidarlington.org/?peets).  Luckily, Peet's now delivers for free!
 
 
 ## Coffee Ipsum Lorem Morem Toum Laterum
